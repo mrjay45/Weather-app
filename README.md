@@ -227,15 +227,6 @@ We welcome contributions! Here's how you can help:
 4. **Push to the branch** (`git push origin feature/amazing-feature`)
 5. **Open a Pull Request**
 
-### 🐛 Bug Reports
-
-Found a bug? Please open an issue with:
-
-- Device information
-- Steps to reproduce
-- Expected vs actual behavior
-- Screenshots (if applicable)
-
 ---
 
 ## 📄 License
